@@ -1,1 +1,3 @@
 # Hall-of-Residence-Application-Reservation
+
+## Designed and implemented a Java-based application with a multi-frame GUI to manage student hall residency, room reservations, and administrative records, applying object-oriented principles to create reusable classes and packaging the program into a runnable .jar for cross-environment deployment; the system featured intelligent room assignment based on hall preference, gender, and budget, along with robust error handling and administrative tools for sorting, editing, and deleting resident records.
